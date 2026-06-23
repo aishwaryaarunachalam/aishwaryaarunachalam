@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://github.com/aishwaryaarunachalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aishwaryaarunachalam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aishwaryaarunachalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwaryaarunachalam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5347623/aish-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5347623/aish-a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
