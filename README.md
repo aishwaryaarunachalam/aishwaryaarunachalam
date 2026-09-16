@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **building intelligent systems that move beyond demos into scalable, production-ready pipelines. I have worked across the full circle from data engg & deep learning to modern GenAI & Agentic workflows.**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 👯 I'm looking to collaborate on **open source or impactful projects**
 
 - 📫 How to reach me **aishwaryaarunachalam@gmail.com**
 
 - ⚡ Fun fact **My name literally starts with AI. Guess the p-values on that!**
 
-- 👨‍💻 All of my projects are available at **[https://aishwaryaarunachalam.github.io/portfolio-site-react/](https://aishwaryaarunachalam.github.io/portfolio-site-react/)**
+- 👨‍💻 Portfolio available at **[https://aishwaryaarunachalam.github.io/portfolio-site-react/](https://aishwaryaarunachalam.github.io/portfolio-site-react/)**
 
 - 📄 Know about my experiences **[https://aishwaryaarunachalam.github.io/portfolio-site-react/resume.pdf](https://aishwaryaarunachalam.github.io/portfolio-site-react/resume.pdf)**
 
